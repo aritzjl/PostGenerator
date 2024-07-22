@@ -1,0 +1,45 @@
+[
+    {
+    "name":"hitzak",
+    "images":[
+        {
+            "path":"templates/template1.jpg",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "bightness": 80,
+            "blur": 80,
+            "font": "/usr/share/fonts/truetype/freefont/FreeMono.ttf"
+        },
+        {
+            "path":"templates/template2.jpg",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "bightness": 80,
+            "blur": 80
+        }
+    ]
+    },
+    {
+        "name":"frasesChidas",
+        "images":[
+            {
+                "path":"templates/template1.jpg",
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "bightness": 80,
+                "blur": 80
+            },
+            {
+                "path":"templates/template2.jpg",
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "bightness": 80,
+                "blur": 80
+            }
+        ]
+        }
+]
